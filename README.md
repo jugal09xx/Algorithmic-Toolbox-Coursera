@@ -6,7 +6,7 @@
 
 ## 📝 Contents
 
-- [Week 1](/Week_1)
+## - [Week 1](/Week_1)
 
 > Learning Objectives
 >  - Practice implementing algorithms
