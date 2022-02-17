@@ -6,7 +6,13 @@
 
 ## 📝 Contents
 
-- [Week 1](/Week 1)
+- [Week 1](/Week_1)
 
-* [Sum of Two Digits](/Week 1/sum_of_numbers)
-* [Maximum Pairwise Product]
+> Learning Objectives
+- Practice implementing algorithms
+- Practice testing and stress testing programs
+- Compare fast and slow programs
+- Practice solving programming challenges
+
+  * [Sum of Two Digits](/Week_1/sum_of_two_numbers.java)
+  * [Maximum Pairwise Product](/Week_1/maximum_pairwise_product.cpp)
