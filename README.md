@@ -16,3 +16,20 @@
 
   * [Sum of Two Digits](/Week_1/sum_of_two_numbers.java)
   * [Maximum Pairwise Product](/Week_1/maximum_pairwise_product.cpp)
+
+## - [Week 2](/Week_2)
+
+> Learning Objectives
+>  - Estimate the running time of an algorithm
+>  - Practice implementing efficient solutions
+>  - Practice solving programming challenges
+>  - Implement programs that are several orders of magnitude faster than straightforward programs
+
+  * [Fibonacci Number](/Week_2/fibonacciNum.cpp)
+  * [Last Digit of Fibonacci Number](/Week_2/lastdigitfib.cpp)
+  * [Greatest Common Divisor](/Week_2/gcd.cpp)
+  * [Least Common Multiple](/Week_2/lcm.cpp)
+  * [Fibonacci Number Again](/Week_2/fibHuge.cpp)
+  * [Last Digit of the Sum of Fibonacci Numbers](/Week_2/fibSum.cpp)
+  * [Last Digit of the Sum of Fibonacci Numbers Again](/Week_2/fibSumPartial.cpp)
+  * [Last Digit of the Sum of Squares of Fibonacci Numbers](/Week_2/fibSumSquare.cpp)
