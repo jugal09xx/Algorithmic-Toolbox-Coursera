@@ -80,11 +80,9 @@
 ## - [Week 6](/Week_6)
 
 > Learning Objectives
-> - apply dynamic programming technique to implement efficient programs
-> - compute the edit distance between to files
-> - practice applying the most popular algorithmic technique: dynamic programming
+> - continue practicing implementing dynamic programming solutions
+> - learn more complex applications of dynamic programming
+> - implement efficient solutions to various problems in combinatorial optimization
 
-  * [Money Change DP](/Week_5/change_dp.cpp)
-  * [Edit Distance](/Week_5/edit_distance.cpp)
-  * [Longest Common Subsequence 1](/Week_5/lcs2.cpp)
-  * [Longest Common Subsequence 2](/Week_5/lcs3.cpp)
+  * [Maximum Amount of Gold](/Week_6/knapsack.cpp)
+  * [Maximum Value of an Arithmetic Expression](/Week_6/placing_parentheses.cpp)
