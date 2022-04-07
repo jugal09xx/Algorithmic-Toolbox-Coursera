@@ -87,6 +87,31 @@
   * [Maximum Amount of Gold](/Week_6/knapsack.cpp)
   * [Maximum Value of an Arithmetic Expression](/Week_6/placing_parentheses.cpp)
 
+## Course Syllabus
+
+> * Big O Notation
+> * Fibonacci-Numbers
+> * Greatest-Common-Divisor
+> * Least-Common-Multiple
+> * Fractional-Knapsack
+> * 0_1_KnapSack
+> * Linear Search
+> * Binary Search
+> * Polynomials Multiplication
+> * Selection Sort
+> * Merge Sort
+> * All Sorting Algorithms
+> * Binary Search Tree
+> * Binary Tree
+> * Bubble Sort
+> * Heap Sort
+> * Insertion Sort
+> * Minimum Spanning Tree
+> * Quick Sort
+> * Shell Sort
+> * Tower of Hanoi
+> * What's the stable sort
+
 ## 🥂 Certification 
 
 ![coursera algorithmic toolbox certification-page-001](https://i.ibb.co/d2LB2v3/Coursera-WLTXHV8-K6-BA7-page-0001.jpg)
