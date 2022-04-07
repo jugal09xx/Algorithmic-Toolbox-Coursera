@@ -44,8 +44,23 @@
 > - Create a program for maximizing the number of prize places in a competition
 
   * [Collecting Signatures](/Week_3/collecting_signatures.cpp)
-  * [Last Digit of Fibonacci Number](/Week_3/max_loot.cpp)
-  * [Greatest Common Divisor](/Week_3/max_prizes.cpp)
-  * [Least Common Multiple](/Week_3/max_revenue.cpp)
-  * [Fibonacci Number Again](/Week_3/max_salary.cpp)
-  * [Last Digit of the Sum of Fibonacci Numbers](/Week_3/money_change.cpp)
+  * [Maximum Loot](/Week_3/max_loot.cpp)
+  * [Maximum Prizes](/Week_3/max_prizes.cpp)
+  * [Maximum Revenue](/Week_3/max_revenue.cpp)
+  * [Maximum Salary](/Week_3/max_salary.cpp)
+  * [Money Change](/Week_3/money_change.cpp)
+
+## - [Week 4](/Week_4)
+
+> Learning Objectives
+> - Express the recurrence relation on the running time of an algorithm
+> - Create a program for searching huge lists
+> - Create a program for finding a majority element
+> - Create a program for organizing a lottery
+
+  * [Binary Search](/Week_4/binary_search.cpp)
+  * [Majority Element](/Week_4/Closest_Points.cpp)
+  * [Inversions](/Week_4/inversions.cpp)
+  * [Majority Element](/Week_4/majority_element.cpp)
+  * [Organizing a Lottery](/Week_4/organizing%20a%20lottery.cpp)
+  * [Sorting](/Week_4/sorting.cpp)
