@@ -33,3 +33,19 @@
   * [Last Digit of the Sum of Fibonacci Numbers](/Week_2/fibSum.cpp)
   * [Last Digit of the Sum of Fibonacci Numbers Again](/Week_2/fibSumPartial.cpp)
   * [Last Digit of the Sum of Squares of Fibonacci Numbers](/Week_2/fibSumSquare.cpp)
+
+## - [Week 3](/Week_3)
+
+> Learning Objectives
+> - Practice implementing greedy solutions
+> - Build greedy algorithms
+> - Create a program for changing money optimally
+> - Create a program for maximizing the value of a loot
+> - Create a program for maximizing the number of prize places in a competition
+
+  * [Collecting Signatures](/Week_3/collecting_signatures.cpp)
+  * [Last Digit of Fibonacci Number](/Week_3/max_loot.cpp)
+  * [Greatest Common Divisor](/Week_3/max_prizes.cpp)
+  * [Least Common Multiple](/Week_3/max_revenue.cpp)
+  * [Fibonacci Number Again](/Week_3/max_salary.cpp)
+  * [Last Digit of the Sum of Fibonacci Numbers](/Week_3/money_change.cpp)
