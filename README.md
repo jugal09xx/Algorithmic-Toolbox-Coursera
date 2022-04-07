@@ -86,3 +86,7 @@
 
   * [Maximum Amount of Gold](/Week_6/knapsack.cpp)
   * [Maximum Value of an Arithmetic Expression](/Week_6/placing_parentheses.cpp)
+
+## 🥂 Certification 
+
+![coursera algorithmic toolbox certification-page-001](https://i.ibb.co/d2LB2v3/Coursera-WLTXHV8-K6-BA7-page-0001.jpg)
