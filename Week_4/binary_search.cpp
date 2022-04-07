@@ -1,17 +1,3 @@
-/*Author : Abdallah Hemdan */
-/***********************************************/
-/* Dear online judge:
-* I've read the problem, and tried to solve it.
-* Even if you don't accept my solution, you should respect my effort.
-* I hope my code compiles and gets accepted.
-*  ___  __
-* |\  \|\  \
-* \ \  \_\  \
-*  \ \   ___ \emdan
-*   \ \  \\ \ \
-*    \ \__\\ \_\
-*     \|__| \|__|
-*/
 
 #include <iostream>
 #define     all(v)            v.begin(),v.end()

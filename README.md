@@ -64,3 +64,27 @@
   * [Majority Element](/Week_4/majority_element.cpp)
   * [Organizing a Lottery](/Week_4/organizing%20a%20lottery.cpp)
   * [Sorting](/Week_4/sorting.cpp)
+
+## - [Week 5](/Week_5)
+
+> Learning Objectives
+> - apply dynamic programming technique to implement efficient programs
+> - compute the edit distance between to files
+> - practice applying the most popular algorithmic technique: dynamic programming
+
+  * [Money Change DP](/Week_5/change_dp.cpp)
+  * [Edit Distance](/Week_5/edit_distance.cpp)
+  * [Longest Common Subsequence 1](/Week_5/lcs2.cpp)
+  * [Longest Common Subsequence 2](/Week_5/lcs3.cpp)
+
+## - [Week 6](/Week_6)
+
+> Learning Objectives
+> - apply dynamic programming technique to implement efficient programs
+> - compute the edit distance between to files
+> - practice applying the most popular algorithmic technique: dynamic programming
+
+  * [Money Change DP](/Week_5/change_dp.cpp)
+  * [Edit Distance](/Week_5/edit_distance.cpp)
+  * [Longest Common Subsequence 1](/Week_5/lcs2.cpp)
+  * [Longest Common Subsequence 2](/Week_5/lcs3.cpp)

@@ -1,5 +1,4 @@
-// Author : Abdallah Hemdan
-// For Hassanosama, ICPC next year ISA.
+
 #ifdef _MSC_VER
 #define _CRT_SECURE_NO_WARNINGS
 #endif

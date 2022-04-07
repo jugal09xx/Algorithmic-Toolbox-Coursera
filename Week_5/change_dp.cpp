@@ -41,27 +41,25 @@ typedef   long long int               ll;
 //freopen("input.txt","r",stdin);
 //freopen("output.txt","w",stdout);
 
-
 using namespace std;
-
-bool ContainMajority(vector<int> Arr, int n) {
-	map<int, int> Freq; 
-	for (size_t i = 0; i < n; i++)
-		Freq[Arr[i]]++;
-
-	for (int i = 0; i <n; i++)
-		if (Freq[Arr[i]] > (n / 2))
-			return true; 
-	
-	return false;
+int CountMinWays(int Coins[], int n, int Money) {
+	vector<int> Ways(Money + 1, INT_MAX);
+	Ways[0] = 0;
+	for (int i = 1; i <= Money; i++) {
+		for (int c = 0; c < n; c++) {
+			if (i >= Coins[c]) {
+				int sub_res = Ways[i - Coins[c]];
+				if (sub_res != INT_MAX && sub_res + 1 < Ways[i])
+					Ways[i] = sub_res + 1;
+			}
+		}
+	}
+	return Ways[Money];
 }
 int main() {
-	int n;
-	cin >> n; 
-	
-	vector<int> Arr(n); 
-	for (size_t i = 0; i < n; i++)
-		cin >> Arr[i];
-	
-	cout << ContainMajority(Arr, n) << endl;
+	int Money; 
+	cin >> Money; 
+	int Coins[3] = { 1,3,4 };
+	cout << CountMinWays(Coins, 3, Money) << endl;
+
 }
